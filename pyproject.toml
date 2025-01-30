@@ -3,7 +3,7 @@ name = "pyschematron"
 description = "Schematron validation in Python."
 readme = "README.rst"
 version = "1.1.5"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 keywords = ["Schematron", "XML validation"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",

@@ -17,6 +17,7 @@
 /lib64
 .installed.cfg
 /.pybuild
+/venv
 
 # Installer logs
 pip-log.txt
